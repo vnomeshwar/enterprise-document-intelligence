@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pg8000
+pymupdf
+sentence-transformers
+scikit-learn
+requests
+streamlit
